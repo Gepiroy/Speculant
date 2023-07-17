@@ -1,0 +1,6 @@
+name: Speculant
+main: Speculant.main
+version: 1337
+api-version: 1.13
+commands:
+  specul:
